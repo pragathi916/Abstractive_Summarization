@@ -1,6 +1,4 @@
-MASTERING NARRATIVE: FILMS AND NCERT TEXTBOOKS ABSTRACTIVE SUMMARIZATION USING BART, T5 AND GPT
-
-Movie Plot Summarizer
+MASTERING NARRATIVE: FILMS AND NCERT TEXTBOOKS ABSTRACTIVE SUMMARIZATION USING BART, T5 AND GP
 
 This project aims to summarize movie plot summaries using natural language processing techniques. It leverages the Hugging Face Transformers library for text generation and the NLTK toolkit for text processing tasks. Summaries are fetched from a dataset and Wikipedia, with a focus on extracting and generating concise plot summaries using T5 models. Evaluation metrics such as ROUGE scores (ROUGE-1) are calculated to assess the quality of generated summaries against reference summaries. Error handling and logging ensure robust performance even when data is unavailable or summaries cannot be generated.
 
